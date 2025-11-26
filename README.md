@@ -1,4 +1,4 @@
-# [Insert Paper Title Here]
+# Triple Sparse Multiview Support Vector Machine and Its Safe Screening Rules
 
 This repository contains the implementation of the paper: "Triple Sparse Multiview Support Vector Machine
 and Its Safe Screening Rules".
